@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulnCaraveo/twitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulnCaraveo/twitter/issues"
+  },
+  "homepage": "https://github.com/JulnCaraveo/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
