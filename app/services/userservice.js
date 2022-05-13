@@ -6,7 +6,7 @@ class userservice{
         
     }
     get getInfo(){
-        return []
+        return userInfoInList[0]=this.id
     }
 }
 module.exports=userservice
